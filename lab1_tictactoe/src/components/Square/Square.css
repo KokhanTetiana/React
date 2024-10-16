@@ -1,0 +1,11 @@
+.square {
+    width: 100px; /* Ширина квадрата */
+    height: 100px; /* Висота квадрата */
+    background-color: white;
+    border: 1px solid black;
+    font-size: 24px;
+    cursor: pointer;
+    display: flex; /* Центрування тексту всередині квадрата */
+    align-items: center; /* Вертикальне центрування */
+    justify-content: center; /* Горизонтальне центрування */
+}
