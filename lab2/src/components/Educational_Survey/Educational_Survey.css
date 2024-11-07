@@ -1,0 +1,31 @@
+.survey-container {
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    background-color: lightsteelblue;
+    border-radius: 10px;
+}
+
+button {
+    padding: 10px 15px;
+    margin: 5px;
+    font-size: 15px;
+    cursor: pointer;
+    border: 1px solid lightgrey;
+    border-radius: 4px;
+    background-color: linen;
+}
+
+button:hover {
+    background-color: lightskyblue;
+}
+
+.button-group {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+button {
+    width: 150px;
+}
